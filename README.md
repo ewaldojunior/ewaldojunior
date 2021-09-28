@@ -1,6 +1,6 @@
 ## Olá, eu sou o Ewaldo Junior! 👋
 ##
-#### Bem-vindo! ⚡
+#### ⚡
 #### Atualmente sou estudante de Engenharia de Software na Universidade Federal do Ceará e bolsista Desenvolvedor na Dell Lead. 👨🏻‍💻
 #### A infinidade de coisas que a tecnologia consegue proporcionar me fez se tornar apaixonado pela área. Não sou nenhum especialista, mas não me sinto incomodado de aprender coisas novas e me movimentar. 🏃🏻‍♂️
 
