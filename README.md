@@ -2,7 +2,7 @@
 
 #### ⚡
 #### Atualmente sou estudante de Engenharia de Software na Universidade Federal do Ceará. 👨🏻‍💻
-#### A infinidade de coisas que a tecnologia consegue proporcionar me fez se tornar apaixonado pela área. Não sou nenhum especialista, mas não me sinto incomodado de aprender coisas novas e me movimentar. 🏃🏻‍♂️
+#### A infinidade de coisas que a tecnologia consegue proporcionar me fez se tornar apaixonado pela área. Não sou nenhum especialista, mas não me sinto incomodado de aprender coisas novas. 🏃🏻‍♂️
 
 
 <div align="center">
